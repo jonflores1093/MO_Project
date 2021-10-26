@@ -1,0 +1,38 @@
+Overall Project/Feedback(Unchanged)
+
+With the feedback from my peers about my project, I decided to go
+with making a bottle model move back and forth if the user clicked
+on it. If the user clicked on it more times then eventually the
+bottle would fall and the top would come off. The sand would then
+spill out and slowly form into children playing around. Below I 
+listed out what was done for the first draft and what I hope to
+accomplish during the next iteration.
+
+
+What was added?
+
+-Added the bottle drop after tapping 3 times on the screen.
+-Smoother transition of the bottle dropping and being tapped the first time.
+-Added 3D Models of two people
+-Scaled Models down
+-Added particle effect when bottle falls
+-Made it so that the particle effect will go off once the bottle falls
+-Added animations of model to get up
+
+What is needed?
+
+-Need to fix the animation of the models
+-Need to make sure that the models appear once the bottle drops
+-Need to add sand model or puddle model into scene
+-Polish off the models, bottle and sand particles
+
+What is difficult?
+
+-Playing around with the animations and seeing if you can attach more than one animation
+to a model.
+-Finding a good sand model to import.
+-Trouble with understanding more of the patch editor.
+-Trouble with trying to reset the whole scene and tap counter in an easier way.
+
+
+
